@@ -1,3 +1,14 @@
 body{
-    background: #BDBDBD;
+    background: #ffffff;
+}
+.header{
+    padding: 0;
+    
+}
+#jumbotron {
+    background-image: url('../img/bg.jpg');
+    background-size: cover;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    min-height: 600px;
 }
